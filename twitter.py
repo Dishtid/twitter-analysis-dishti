@@ -3,12 +3,12 @@
 #  This program accesses data from a twitter user site (hard-coded as Stevens)
 
 #  To run in a terminal window:   python3  twitter_data.py
-from textblob import TextBlob  # needed to analyze text for sentiment
-import argparse                 # for parsing the arguments in the command line
+#from textblob import TextBlob  # needed to analyze text for sentiment
+#import argparse                 # for parsing the arguments in the command line
 import csv                # for creating output .csv file
 import tweepy              # Python twitter API package
 import unidecode                # for processing text fields in the search results
-import pandas as pd
+#import pandas as pd
 import streamlit as st
 ### PUT AUTHENTICATOIN KEYS HERE ###
 CONSUMER_KEY = "G5JLnhHkFSqR1Wg43VM2wZhhD"
