@@ -1,3 +1,5 @@
 tweepy
 streamlit
+textblob
+pandas
 unidecode
