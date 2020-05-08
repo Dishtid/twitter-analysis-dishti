@@ -1,4 +1,4 @@
-#   Author: Cheryl Dugas
+
 
 #  This program accesses data from a twitter user site (hard-coded as Stevens)
 
