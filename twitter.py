@@ -1,5 +1,3 @@
-
-
 #  This program accesses data from a twitter user site (hard-coded as Stevens)
 
 #  To run in a terminal window:   python3  twitter_data.py
